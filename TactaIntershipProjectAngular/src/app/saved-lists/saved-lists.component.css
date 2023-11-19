@@ -1,0 +1,24 @@
+
+.saved-lists-container {
+    margin: 20px;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .saved-lists {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .saved-item {
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .no-lists-message {
+    font-style: italic;
+    color: #888;
+  }

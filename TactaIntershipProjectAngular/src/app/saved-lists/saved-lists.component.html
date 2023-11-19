@@ -1,0 +1,12 @@
+<div class="saved-lists-container" *ngIf="savedLists.length > 0; else noSavedLists">
+    <h2>Saved Lists for {{ getShopperName(savedLists[0].shopperId) }}</h2>
+    <ul class="saved-lists">
+      <li *ngFor="let savedItem of savedLists" class="saved-item">
+        {{ savedItem.itemName }}
+      </li>
+    </ul>
+  </div>
+  
+  <ng-template #noSavedLists>
+    <p class="no-lists-message">No saved lists found.</p>
+  </ng-template>
