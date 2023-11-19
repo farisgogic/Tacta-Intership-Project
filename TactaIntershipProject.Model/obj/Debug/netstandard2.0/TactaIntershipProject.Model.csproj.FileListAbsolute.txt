@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Model\bin\Debug\netstandard2.0\TactaIntershipProject.Model.deps.json
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Model\bin\Debug\netstandard2.0\TactaIntershipProject.Model.dll
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Model\bin\Debug\netstandard2.0\TactaIntershipProject.Model.pdb
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Model\obj\Debug\netstandard2.0\TactaIntershipProject.Model.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Model\obj\Debug\netstandard2.0\TactaIntershipProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Model\obj\Debug\netstandard2.0\TactaIntershipProject.Model.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Model\obj\Debug\netstandard2.0\TactaIntershipProject.Model.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Model\obj\Debug\netstandard2.0\TactaIntershipProject.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Model\obj\Debug\netstandard2.0\TactaIntershipProject.Model.dll
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Model\obj\Debug\netstandard2.0\TactaIntershipProject.Model.pdb

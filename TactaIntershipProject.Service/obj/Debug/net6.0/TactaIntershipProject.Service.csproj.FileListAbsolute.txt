@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Service\bin\Debug\net6.0\TactaIntershipProject.Service.deps.json
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Service\bin\Debug\net6.0\TactaIntershipProject.Service.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Service\bin\Debug\net6.0\TactaIntershipProject.Service.dll
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Service\bin\Debug\net6.0\TactaIntershipProject.Service.pdb
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Service\obj\Debug\net6.0\TactaIntershipProject.Service.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Service\obj\Debug\net6.0\TactaIntershipProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Service\obj\Debug\net6.0\TactaIntershipProject.Service.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Service\obj\Debug\net6.0\TactaIntershipProject.Service.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Service\obj\Debug\net6.0\TactaIntershipProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Service\obj\Debug\net6.0\TactaIntershipProject.Service.dll
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Service\obj\Debug\net6.0\refint\TactaIntershipProject.Service.dll
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Service\obj\Debug\net6.0\TactaIntershipProject.Service.pdb
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Service\obj\Debug\net6.0\TactaIntershipProject.Service.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Service\obj\Debug\net6.0\ref\TactaIntershipProject.Service.dll
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Service\bin\Debug\net6.0\TactaIntershipProject.Model.dll
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Service\bin\Debug\net6.0\TactaIntershipProject.Model.pdb
+C:\Users\User\OneDrive\Desktop\TactaIntershipProject\TactaIntershipProject.Service\obj\Debug\net6.0\TactaIntershipProject.Service.csproj.CopyComplete

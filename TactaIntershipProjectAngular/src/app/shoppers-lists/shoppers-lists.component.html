@@ -1,0 +1,18 @@
+<div class="shoppers-container">
+    <div class="shopper" *ngFor="let shopper of shoppers">
+      <h2 class="shopper-heading">Shopping List for {{ shopper.shopperName }}</h2>
+      <div class="item-selection-container">
+        <label>Select items:</label>
+        <div class="item-checkbox" *ngFor="let item of shoppingItems">
+          <input type="checkbox" [checked]="isItemSelected(shopper.shopperId, item.itemId)" (change)="toggleItemSelection(shopper.shopperId, item.itemId)">
+          {{ item.itemName }}
+        </div>
+        <button class="create-list-button" (click)="createShoppingList(shopper.shopperId)">Create Shopping List</button>
+        
+        <button class="create-list-button" (click)="viewSavedLists(shopper.shopperId)">View Saved Lists</button>
+
+    
+        
+    </div>
+</div>
+</div>
